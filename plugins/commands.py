@@ -43,7 +43,7 @@ __🚸 Pᴏʀɴ Cᴏɴᴛᴇɴᴛ Nᴏᴛ Aʟʟᴏᴡᴇᴅ Oɴ Tʜᴇ Bᴏᴛ__
     buttons = [[
             InlineKeyboardButton('Hᴇʟᴘ 💡', callback_data="help"),
             InlineKeyboardButton('Aʙᴏᴜᴛ 👑', callback_data="about")],[
-            InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 👨‍✈️', url=f"https://t.me/{owner_username}"),
+            InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 👨‍✈️', url=f"https://t.me/jackzeng6666"),
         ]]
 
     # when button home is pressed
