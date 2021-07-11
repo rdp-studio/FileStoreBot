@@ -1,5 +1,5 @@
 {
-  "name": "FileStoreBot [ Avishkar Patil ]",
+  "name": "FileStoreBot",
   "description": "Telegram Media, FIles, Document Storing and Permanat Link Bot",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "avipatilpro"
   ],
   "logo": "https://i.ibb.co/R2cswyL/folder.png",
-  "success_url": "https://avipatilweb.ml",
-  "website": "https://github.com/avipatilpro/FileStoreBot",
-  "repository": "https://github.com/avipatilpro/FileStoreBot",
+  "success_url": "https://github.com/rdp-studio/FileStoreBot",
+  "website": "https://github.com/rdp-studio/FileStoreBot",
+  "repository": "https://github.com/rdp-studio/FileStoreBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
