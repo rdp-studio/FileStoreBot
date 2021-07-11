@@ -6,9 +6,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/Avipatilpro/FileStoreBot/issues"><b>Report a Bug</b></a>
+    <a href="https://github.com/rdp-studio/FileStoreBot/issues"><b>Report a Bug</b></a>
     |
-    <a href="https://github.com/Avipatilpro/FileStoreBot/issues"><b>Request Feature</b></a>
+    <a href="https://github.com/rdp-studio/FileStoreBot/issues"><b>Request Feature</b></a>
   </p>
 </p>
 
@@ -30,9 +30,6 @@
 
 <br>
 
-#### Demo Bot:  
-<a href="https://telegram.me/FxStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
-
 
 ## Heroky Deploy :
 _Press the button Deploy to heroku and give the values for the config vars. 👇_
@@ -43,7 +40,7 @@ _Press the button Deploy to heroku and give the values for the config vars. 👇
 ## VPS Deploy : 
 
 ```py
-git clone https://github.com/avipatilpro/FileStoreBot
+git clone https://github.com/rdp-studio/FileStoreBot
 cd FileStoreBot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -87,6 +84,6 @@ mode - checkout the mode (^_^)
 ```
   
 <br>
-<h5 align='center'>© 2021 Aνιѕнкαя Pαтιℓ</h5>
+<h5 align='center'>© 2021 RDPStudio</h5>
 
 
